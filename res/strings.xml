@@ -1,0 +1,30 @@
+<resources>
+    // for ButtonText and APP name
+    <string name="app_name">Basic Calculator</string>
+    <string name="btnPercent">%</string>
+    <string name="btnCE">CE</string>
+    <string name="btnClear">C</string>
+    <string name="btnDelete">DEL</string>
+    <string name="btnReciprocal">1/x</string>
+    <string name="btnSquare">x²</string>
+    <string name="btnSquareRoot">√x</string>
+    <string name="btnDivide">÷</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btnMinus">-</string>
+    <string name="btnAdd">+</string>
+    <string name="btnChangeSign">+/-</string>
+    <string name="btn0">0</string>
+    <string name="btnDecimal">.</string>
+    <string name="btnEquals">=</string>
+    <string name="btnMultiply">×</string>
+
+
+</resources>
